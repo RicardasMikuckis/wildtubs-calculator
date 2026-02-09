@@ -1,0 +1,4625 @@
+{
+  "assemblies": [
+    {
+      "id": "pagrindas-medinis-dažytas-stak-1800",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas  St/Ak 1800",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-stak-2000",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas St/Ak 2000",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 12.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-stak-ofuro",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas St/ak ofuro",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 8.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-st-kvadratinis",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas ST kvadratinis",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 15.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 20.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 20.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-ak-kvadratinis",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas Ak kvadratinis",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 15.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-st-šaltas",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas St šaltas",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 3.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-su-metalinem-kojom-stak-1800",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas su metalinem kojom St/Ak 1800",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 3.95,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        },
+        {
+          "code": "MOM000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-su-metalinem-kojom-stak-2000",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas su metalinem kojom St/Ak 2000",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 10.95,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        },
+        {
+          "code": "KRMP000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-su-metalinem-kojom-st-ofuro",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas su metalinem kojom St ofuro",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 6.95,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        },
+        {
+          "code": "KRMP000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-su-metalinem-kojom-st-kvadratinis",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas su metalinem kojom ST kvadratinis",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 10.95,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        },
+        {
+          "code": "KRMP000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-medinis-dažytas-su-metalinem-kojom-ak-kvadratinis",
+      "section": "Pagrindas",
+      "name": "Medinis dažytas su metalinem kojom Ak kvadratinis",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 15.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000004",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000002",
+          "qty": 0.2,
+          "unit": "L"
+        },
+        {
+          "code": "KRMP000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-pilnai-metalinis-stak-1800",
+      "section": "Pagrindas",
+      "name": "Pilnai metalinis St/Ak 1800",
+      "items": [
+        {
+          "code": "MOM000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-pilnai-metalinis-stak-2000",
+      "section": "Pagrindas",
+      "name": "Pilnai metalinis St/Ak 2000",
+      "items": [
+        {
+          "code": "MOM000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-pilnai-metalinis-st-ofuro",
+      "section": "Pagrindas",
+      "name": "Pilnai metalinis St ofuro",
+      "items": [
+        {
+          "code": "MOM000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-pilnai-metalinis-st-kvadratinis",
+      "section": "Pagrindas",
+      "name": "Pilnai metalinis ST kvadratinis",
+      "items": [
+        {
+          "code": "MOM000023",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pagrindas-pilnai-metalinis-ak-kvadratinis",
+      "section": "Pagrindas",
+      "name": "Pilnai metalinis Ak kvadratinis",
+      "items": [
+        {
+          "code": "MOM000023",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.45,
+          "unit": "m2"
+        },
+        {
+          "code": "MV000009",
+          "qty": 16.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-stak-apvalus-1800",
+      "section": "apšiltinimas",
+      "name": "ST/AK apvalus 1800",
+      "items": [
+        {
+          "code": "MOM000001",
+          "qty": 5.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-stak-apvalus-2000",
+      "section": "apšiltinimas",
+      "name": "ST/AK apvalus 2000",
+      "items": [
+        {
+          "code": "MOM000001",
+          "qty": 6.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-stak-ofuras",
+      "section": "apšiltinimas",
+      "name": "ST/Ak ofuras",
+      "items": [
+        {
+          "code": "MOM000001",
+          "qty": 5.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-stak-kvadratinis",
+      "section": "apšiltinimas",
+      "name": "ST/AK kvadratinis",
+      "items": [
+        {
+          "code": "MOM000001",
+          "qty": 7.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-apvalus-sienos-dugnas-1600",
+      "section": "apšiltinimas",
+      "name": "PP apvalus sienos + dugnas 1600",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 5.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 3.24,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 3.24,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-apvalus-sienos-1800",
+      "section": "apšiltinimas",
+      "name": "PP apvalus sienos 1800",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 5.625,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 4.0,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-apvalus-sienos-2000",
+      "section": "apšiltinimas",
+      "name": "PP apvalus sienos 2000",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 6.255,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 4.84,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 4.84,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-apvalus-sienos-2200",
+      "section": "apšiltinimas",
+      "name": "PP apvalus sienos 2200",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 6.885,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 5.76,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 5.76,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-kvadratinis-sienos-1600-x-1600",
+      "section": "apšiltinimas",
+      "name": "PP kvadratinis sienos 1600 x 1600",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 5.775,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000013",
+          "qty": 25.0,
+          "unit": "m"
+        },
+        {
+          "code": "MV000004",
+          "qty": 32.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 3.96,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 4.16,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-kvadratinis-sienos-1800-x-1800",
+      "section": "apšiltinimas",
+      "name": "PP kvadratinis sienos 1800 x 1800",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 6.575,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000013",
+          "qty": 25.0,
+          "unit": "m"
+        },
+        {
+          "code": "MV000004",
+          "qty": 32.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 5.02,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 5.24,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-kvadratinis-sienos-2000-x-2000",
+      "section": "apšiltinimas",
+      "name": "PP kvadratinis sienos 2000 x 2000",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 7.375,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000013",
+          "qty": 25.0,
+          "unit": "m"
+        },
+        {
+          "code": "MV000004",
+          "qty": 32.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 6.25,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 6.5,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-kvadratinis-sienos-2200-x-2200",
+      "section": "apšiltinimas",
+      "name": "PP kvadratinis sienos 2200 x 2200",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 8.175,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000013",
+          "qty": 25.0,
+          "unit": "m"
+        },
+        {
+          "code": "MV000004",
+          "qty": 32.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000019",
+          "qty": 7.56,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 7.84,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "apšiltinimas-pp-saltas-dugnas",
+      "section": "apšiltinimas",
+      "name": "PP saltas dugnas",
+      "items": [
+        {
+          "code": "MOM000019",
+          "qty": 1.21,
+          "unit": "m2"
+        },
+        {
+          "code": "VPP000002",
+          "qty": 1.325,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "spalva",
+      "section": "spalva",
+      "name": "spalva",
+      "items": [
+        {
+          "code": "SPST00001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00009",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00010",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00011",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPST00012",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "spalva-akrilas",
+      "section": "spalva",
+      "name": "AKRILAS",
+      "items": [
+        {
+          "code": "SPAK00001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPAK00004",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "apdailos-revizinės-durys-medines",
+      "section": "apdailos",
+      "name": "Revizinės durys medines",
+      "items": [
+        {
+          "code": "MV000009",
+          "qty": 12.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000013",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000014",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000026",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000013",
+          "qty": 2.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "apdailos-revizinės-durys-wpc",
+      "section": "apdailos",
+      "name": "Revizinės durys WPC",
+      "items": [
+        {
+          "code": "KRMP000020",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 116.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000027",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000003",
+          "qty": 2.0,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "dangčiai",
+      "section": "dangčiai",
+      "name": "dangčiai",
+      "items": [
+        {
+          "code": "DST000001",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DST000002",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DST000003",
+          "qty": 1.0,
+          "unit": "1"
+        }
+      ]
+    },
+    {
+      "id": "dangčiai-odiniai",
+      "section": "dangčiai",
+      "name": "Odiniai",
+      "items": [
+        {
+          "code": "DOD00001",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00002",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00003",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00004",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00005",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00006",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00007",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00008",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00009",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00010",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00011",
+          "qty": 1.0,
+          "unit": "1"
+        },
+        {
+          "code": "DOD00012",
+          "qty": 1.0,
+          "unit": "1"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-be-krosnelės-tik-krosnėlės-pajungimai-išorinei-krosnelei",
+      "section": "Krosnelės",
+      "name": "Be krosnelės tik krosnėlės pajungimai ( išorinei krosnelei)",
+      "items": [
+        {
+          "code": "KRM00021",
+          "qty": 1.4,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000028",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00009",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00010",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00011",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00012",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00013",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00014",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00015",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00016",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00017",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00018",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00019",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00020",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elekrtinis-šildytuvas",
+      "section": "Krosnelės",
+      "name": "Elekrtinis šildytuvas",
+      "items": [
+        {
+          "code": "KRE000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000006",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000007",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000008",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000009",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000010",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000011",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000012",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "KRE000013",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "krosnelės-elektra",
+      "section": "Krosnelės",
+      "name": "ELEKTRA",
+      "items": [
+        {
+          "code": "SPA00000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000030",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000029",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000026",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000044",
+          "qty": 3.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000017",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000018",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000020",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000036",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000029",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000049",
+          "qty": 3.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000017",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000018",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000020",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000037",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000030",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000029",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000026",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000044",
+          "qty": 3.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000017",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000018",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000020",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000036",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000029",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000049",
+          "qty": 3.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000017",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000018",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000020",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000037",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-led-blokas-5-w-vakuminis-jungiklis",
+      "section": "Sistemos",
+      "name": "LED blokas (5 W) + vakuminis jungiklis",
+      "items": [
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000047",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000047",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000047",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000047",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000047",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000048",
+          "qty": 10.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000048",
+          "qty": 10.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000048",
+          "qty": 10.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-led-juosta-rgb-6-m-tinka-apvaliems-96-w",
+      "section": "Sistemos",
+      "name": "Led juosta RGB 6 m tinka APvaliems 96 W",
+      "items": [
+        {
+          "code": "SPA00000049",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-led-juosta-rgb-12m-182-w-tinka-kvadratiniams",
+      "section": "Sistemos",
+      "name": "Led juosta RGB 12m 182 W tinka Kvadratiniams",
+      "items": [
+        {
+          "code": "SPA00000049",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-dezute",
+      "section": "Sistemos",
+      "name": "dezute",
+      "items": [
+        {
+          "code": "SPA00000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000030",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000040",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000041",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000035",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000020",
+          "qty": 12.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 9.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000030",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000040",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000041",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000035",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000020",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 12.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000030",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000040",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000041",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000035",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000021",
+          "qty": 12.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 9.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000030",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000040",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000041",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000035",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000021",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 12.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000017",
+          "qty": 6.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000017",
+          "qty": 8.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000017",
+          "qty": 10.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000017",
+          "qty": 12.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000017",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000017",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000019",
+          "qty": 6.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000019",
+          "qty": 8.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000019",
+          "qty": 10.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000019",
+          "qty": 12.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000019",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 4.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000019",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000046",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.1,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000018",
+          "qty": 6.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 8.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 3.5,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.5,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000037",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000018",
+          "qty": 8.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 9.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 4.5,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.5,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000037",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000018",
+          "qty": 10.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 10.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.5,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000037",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000018",
+          "qty": 12.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 11.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 6.5,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.5,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000037",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000018",
+          "qty": 14.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 12.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 7.5,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.5,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000037",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000022",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000034",
+          "qty": 3.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000033",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000043",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000038",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000039",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000018",
+          "qty": 16.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000008",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 0.3,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000010",
+          "qty": 5.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000012",
+          "qty": 13.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000014",
+          "qty": 8.5,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000003",
+          "qty": 0.5,
+          "unit": "l"
+        },
+        {
+          "code": "SPA00000036",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000037",
+          "qty": 6.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000006",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000007",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000015",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000032",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000015",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "KRMP000006",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000007",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000015",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000032",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000015",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000026",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000015",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 2.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-filtracijos-pajungimai",
+      "section": "Sistemos",
+      "name": "Filtracijos pajungimai",
+      "items": [
+        {
+          "code": "SPA00000006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000057",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-filtracijos-pajungimai",
+      "section": "Sistemos",
+      "name": "Filtracijos pajungimai",
+      "items": [
+        {
+          "code": "SPA00000058",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000009",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000028",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000056",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000013",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000053",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000054",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 2.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "sistemos-darbas",
+      "section": "Sistemos",
+      "name": "Darbas",
+      "items": [
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 1.0,
+          "unit": "VAl"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 1.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 1.0,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 1.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 1.5,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.2,
+          "unit": "Val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "Val"
+        }
+      ]
+    },
+    {
+      "id": "priedai",
+      "section": "Priedai",
+      "name": "Priedai",
+      "items": [
+        {
+          "code": "SPA00000053",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "priedai-medinis-puodeliu-laikiklis-plokščias",
+      "section": "Priedai",
+      "name": "Medinis puodeliu laikiklis plokščias",
+      "items": [
+        {
+          "code": "MED000014",
+          "qty": 0.5,
+          "unit": "m"
+        },
+        {
+          "code": "MV000008",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000010",
+          "qty": 0.2,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "priedai-medinis-puodeliu-laikiklis-5-vietu",
+      "section": "Priedai",
+      "name": "Medinis puodeliu laikiklis 5 vietu",
+      "items": [
+        {
+          "code": "MED000014",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "MV000008",
+          "qty": 5.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000059",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000052",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "priedai-irklas",
+      "section": "Priedai",
+      "name": "Irklas",
+      "items": [
+        {
+          "code": "MED000014",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "SPA00000062",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000060",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000054",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "SPA00000051",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000010",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000011",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "DA000003",
+          "qty": 1.1,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "priedai-skardu-dažymas-kvadratines-kampines-arba-interuotos",
+      "section": "Priedai",
+      "name": "Skardu dažymas ( kvadratines kampines arba interuotos )",
+      "items": [
+        {
+          "code": "DA000003",
+          "qty": 2.0,
+          "unit": "m2"
+        },
+        {
+          "code": "SPA00000061",
+          "qty": 8.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "priedai-malkinė-medinė-apvali",
+      "section": "Priedai",
+      "name": "Malkinė medinė apvali",
+      "items": [
+        {
+          "code": "MED000014",
+          "qty": 27.5,
+          "unit": "m"
+        },
+        {
+          "code": "MV000006",
+          "qty": 30.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000012",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000014",
+          "qty": 1.4,
+          "unit": "m"
+        },
+        {
+          "code": "KRMP000008",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "priedai-darbas",
+      "section": "Priedai",
+      "name": "Darbas",
+      "items": [
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.1,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.5,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.2,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 4.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 0.0,
+          "unit": "val"
+        }
+      ]
+    }
+  ]
+}

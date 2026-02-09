@@ -1,0 +1,2668 @@
+{
+  "currency": "EUR",
+  "materials": [
+    {
+      "code": "DU0000001",
+      "name": "darbas plastiko modeliuotojo",
+      "unit": "val",
+      "cost_eur": 11.5,
+      "category": "darbas"
+    },
+    {
+      "code": "DU0000002",
+      "name": "Darbas stalius",
+      "unit": "val",
+      "cost_eur": 11.5,
+      "category": "darbas"
+    },
+    {
+      "code": "VST000001",
+      "name": "Vonia St integruota 1800/2000 mm",
+      "unit": "vnt",
+      "cost_eur": 380.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VST000002",
+      "name": "Vonia St integruota 2000/2250 mm",
+      "unit": "vnt",
+      "cost_eur": 470.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VST000003",
+      "name": "Vonia St Išorinė1800/2000 mm",
+      "unit": "vnt",
+      "cost_eur": 380.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VST000004",
+      "name": "Vonia St išorinė 2000/2250 mm",
+      "unit": "vnt",
+      "cost_eur": 470.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VST000005",
+      "name": "Vonia ST ofuro 1000x1900/1100x2000 mm",
+      "unit": "vnt",
+      "cost_eur": 320.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VST000006",
+      "name": "Vonia St kvadratinė 2000/2200 mm",
+      "unit": "vnt",
+      "cost_eur": 540.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VST000007",
+      "name": "Vonia ST šalta",
+      "unit": "vnt",
+      "cost_eur": 250.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000001",
+      "name": "Vonia AK integruota 1800/2000 mm USA",
+      "unit": "vnt",
+      "cost_eur": 650.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000002",
+      "name": "Vonia AK integruota 2000/2250 mm USA",
+      "unit": "vnt",
+      "cost_eur": 750.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000003",
+      "name": "Vonia AK Išorinė1800/2000 mm USA",
+      "unit": "vnt",
+      "cost_eur": 650.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000004",
+      "name": "Vonia AK išorinė 2000/2250 mm USA",
+      "unit": "vnt",
+      "cost_eur": 750.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000005",
+      "name": "Vonia AK kvadratinė integruota su gulima 2200/2400 mm",
+      "unit": "vnt",
+      "cost_eur": 1150.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000006",
+      "name": "Vonia AK kvadratinė išorinė su gulima 2000/2200 mm USA",
+      "unit": "vnt",
+      "cost_eur": 850.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000007",
+      "name": "Vonia AK ofuro",
+      "unit": "vnt",
+      "cost_eur": 480.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000008",
+      "name": "Vonia AK kvadratinė integruota tiesios sienos 1800/2000 mm",
+      "unit": "vnt",
+      "cost_eur": 860.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000009",
+      "name": "Vonia AK kvadratinė išorinė tiesios sienos 1800/2000 mm",
+      "unit": "vnt",
+      "cost_eur": 860.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000010",
+      "name": "AK kvadratinis išorinis/integruotas su gulima 1800/2000 mm",
+      "unit": "vnt",
+      "cost_eur": 860.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VAK000011",
+      "name": "AK kvadratinis integruotas be gulimos 2200x2200",
+      "unit": "vnt",
+      "cost_eur": 850.0,
+      "category": "Vonios"
+    },
+    {
+      "code": "VPP000001",
+      "name": "PP-C-elektrodai 4x3 mm (ovalas) R7032 Polystone P (5kg/vnt) (4 x 3 x 0 mm)",
+      "unit": "vnt",
+      "cost_eur": 32.0,
+      "category": "PP"
+    },
+    {
+      "code": "VPP000002",
+      "name": "PP-C #5x2000x4000 mm R7032 UV su plėv. Polystone P(kv.m.) (5 x 2000 x 4000 mm)( sienos) lapas, dugnas",
+      "unit": "m2",
+      "cost_eur": 17.3,
+      "category": "PP"
+    },
+    {
+      "code": "VPP000003",
+      "name": "PP-C #8x1500x3000 mm R7032 UV (su plėvele) PolystoneP (kv.m.) (8 x 1500 x 3000 mm) lapas, suolai",
+      "unit": "m2",
+      "cost_eur": 27.6,
+      "category": "PP"
+    },
+    {
+      "code": "VPP000004",
+      "name": "PP-C #5x1000x30000 mm šv.mėlynas UV Polystone P sienos, rulonas",
+      "unit": "m2",
+      "cost_eur": 17.6,
+      "category": "PP"
+    },
+    {
+      "code": "SPST00001",
+      "name": "Tamsiai Pilka RAL 7015",
+      "unit": "vnt",
+      "cost_eur": 0.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00002",
+      "name": "Šviesiai Pilka  RAL 7040",
+      "unit": "vnt",
+      "cost_eur": 0.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00003",
+      "name": "Balta kreminė RAL 9001",
+      "unit": "vnt",
+      "cost_eur": 0.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00004",
+      "name": "Mėlyna RAL 5674",
+      "unit": "vnt",
+      "cost_eur": 0.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00005",
+      "name": "PERL 3D vidus išorė 1800/2000 Apvalus",
+      "unit": "vnt",
+      "cost_eur": 180.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00006",
+      "name": "PERL 3D vidus išorė 2000/2250 Apvalus",
+      "unit": "vnt",
+      "cost_eur": 220.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00007",
+      "name": "PERL 3D vidus išorė 2000x2000/2200x2200 Kvadratinis",
+      "unit": "vnt",
+      "cost_eur": 180.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00008",
+      "name": "PERL 3D vidus išorė 1000x1900/1100x2000 Ofuro",
+      "unit": "vnt",
+      "cost_eur": 130.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00009",
+      "name": "Vinilas  vidus išorė 1800/2000 Apvalus",
+      "unit": "vnt",
+      "cost_eur": 70.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00010",
+      "name": "Vinilas vidus išorė 2000/2250 Apvalus",
+      "unit": "vnt",
+      "cost_eur": 90.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00011",
+      "name": "Vinilas vidus išorė 2000x2000/2200x2200 Kvadratinis",
+      "unit": "vnt",
+      "cost_eur": 120.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPST00012",
+      "name": "Vinilas vidus išorė 1000x1900/1100x2000 Ofuro",
+      "unit": "vnt",
+      "cost_eur": 60.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPAK00001",
+      "name": "AK Pilka , balta",
+      "unit": "vnt",
+      "cost_eur": 0.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPAK00002",
+      "name": "Ak marmuras",
+      "unit": "vnt",
+      "cost_eur": 150.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPAK00003",
+      "name": "Ak metalic",
+      "unit": "vnt",
+      "cost_eur": 30.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "SPAK00004",
+      "name": "Ak marmuras metalic",
+      "unit": "vnt",
+      "cost_eur": 160.0,
+      "category": "Spalvos Voniu"
+    },
+    {
+      "code": "DOD00001",
+      "name": "ST/PP Apvalus vidus/išorė (1000/1200 mm)",
+      "unit": "vnt",
+      "cost_eur": 90.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00002",
+      "name": "PP Apvalus vidus/išorė (1600/1850 mm)",
+      "unit": "vnt",
+      "cost_eur": 168.5,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00003",
+      "name": "ST/PP/ AK Apvalus vidus/išorė (1800/2050 mm)",
+      "unit": "vnt",
+      "cost_eur": 130.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00004",
+      "name": "ST/PP/AK Apvalus vidus/išorė (2000/2250 mm)",
+      "unit": "vnt",
+      "cost_eur": 150.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00005",
+      "name": "PP Apvalus vidus/išorė (2200/2450 mm)",
+      "unit": "vnt",
+      "cost_eur": 230.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00006",
+      "name": "PP kvadratinis vidus/išorė (1600/1900 mm)",
+      "unit": "vnt",
+      "cost_eur": 171.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00007",
+      "name": "PP kvadratinis vidus/išorė (1800/2100 mm)",
+      "unit": "vnt",
+      "cost_eur": 187.29,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00008",
+      "name": "PP kvadratinis vidus/išorė (2000/2300 mm)",
+      "unit": "vnt",
+      "cost_eur": 204.78,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00009",
+      "name": "PP kvadratinis vidus/išorė (2200/2500 mm)",
+      "unit": "vnt",
+      "cost_eur": 235.98,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00010",
+      "name": "Ak kvadratinis vidus/išorė (1800/2000 mm)",
+      "unit": "vnt",
+      "cost_eur": 150.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00011",
+      "name": "ST/Ak kvadratinis vidus/išorė (2000/2200 mm)",
+      "unit": "vnt",
+      "cost_eur": 190.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00012",
+      "name": "ST Ofuro vidus/išorė (1900/2000 mm)",
+      "unit": "vnt",
+      "cost_eur": 130.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DOD00013",
+      "name": "AK Ofuro vidus/išorė (1800/1900 mm)",
+      "unit": "vnt",
+      "cost_eur": 115.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DST000001",
+      "name": "Dangtis ST 1800/2000 mm",
+      "unit": "vnt",
+      "cost_eur": 120.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DST000002",
+      "name": "Dangtis ST 2000/2250 mm",
+      "unit": "vnt",
+      "cost_eur": 150.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "DST000003",
+      "name": "Dangtis ST ofuro",
+      "unit": "vnt",
+      "cost_eur": 120.0,
+      "category": "Dangčiai"
+    },
+    {
+      "code": "KRM00001",
+      "name": "Integruota krosnis 30 KW 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 480.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00002",
+      "name": "Integruota krosnis  30 KW 316 Komplektas  su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 580.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00003",
+      "name": "Integruota krosnis kampinė 30 KW 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 500.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00004",
+      "name": "Integruota krosnis kampinė 30 KW 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 600.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00005",
+      "name": "Integruota krosnis Horizon 20 KW 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 555.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00006",
+      "name": "Integruota krosnis Horizon 20 KW 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 655.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00007",
+      "name": "Integruota krosnis Horizon ofuro 30 KW 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 555.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00008",
+      "name": "Integruota krosnis Horizon ofuro 30 KW 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 655.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00009",
+      "name": "Išorinė kvadratinė 22 kW L-50 cm 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 380.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00010",
+      "name": "Išorinė kvadratinė 28 kW L-70 cm 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 435.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00011",
+      "name": "Išorinė kvadratinė 35 kW L-100 cm 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 535.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00012",
+      "name": "Išorinė kvadratinė 22 kW L-50 cm 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 415.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00013",
+      "name": "Išorinė kvadratinė 28 kW L-70 cm 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 505.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00014",
+      "name": "Išorinė kvadratinė 35 kW L-100 cm 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 635.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00015",
+      "name": "Išorinė 6 kampu 22 kW L-50 cm 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 385.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00016",
+      "name": "Išorinė 6 kampu  28 kW L-70 cm 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 465.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00017",
+      "name": "Išorinė 6 kampu 35 kW L-100 cm 304 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 545.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00018",
+      "name": "Išorinė 6 kampu 22 kW L-50 cm 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 445.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00019",
+      "name": "Išorinė 6 kampu 28 kW L-70 cm 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 529.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00020",
+      "name": "Išorinė 6 kampu 35 kW L-100 cm 316 komplektas su kamino apsauga",
+      "unit": "vnt",
+      "cost_eur": 675.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00021",
+      "name": "Žarna garui ID/OD-48/59 mm 6 bar",
+      "unit": "m",
+      "cost_eur": 15.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00022",
+      "name": "Srieginiai krosneles pajungimai 1 ½ colio krosnelei komplektas AISI 316",
+      "unit": "vnt",
+      "cost_eur": 16.0,
+      "category": "Krosnis + priedai kubilams"
+    },
+    {
+      "code": "KRM00023",
+      "name": "Harvia 20 pro green flame / ce voketyjai",
+      "unit": "vnt",
+      "cost_eur": 78.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00024",
+      "name": "Harvia m3",
+      "unit": "vnt",
+      "cost_eur": 279.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00025",
+      "name": "Harvia m3 sl",
+      "unit": "vnt",
+      "cost_eur": 446.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00026",
+      "name": "Harvia 20 pro",
+      "unit": "vnt",
+      "cost_eur": 491.5,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00027",
+      "name": "Harvia 20 pro sl",
+      "unit": "vnt",
+      "cost_eur": 579.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00028",
+      "name": "Harvia 20 pro CE",
+      "unit": "vnt",
+      "cost_eur": 569.5,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00029",
+      "name": "Harvia 20 pro sl ce",
+      "unit": "vnt",
+      "cost_eur": 657.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00030",
+      "name": "Harvia Legend 150",
+      "unit": "vnt",
+      "cost_eur": 686.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KRM00031",
+      "name": "harvia Legend 150 SL",
+      "unit": "vnt",
+      "cost_eur": 720.0,
+      "category": "Krosnis pirčiu"
+    },
+    {
+      "code": "KA000001",
+      "name": "Dvisienis dumtraukis/Double wall rigid element d 115, L-1 m (D)",
+      "unit": "vnt",
+      "cost_eur": 44.23,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000002",
+      "name": "Dvisienis dumtraukis/Double wall rigid element d 115, L-05 m (D)",
+      "unit": "vnt",
+      "cost_eur": 24.65,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000003",
+      "name": "Viršutinis antgalis/Upper cover 115/215 (D)",
+      "unit": "vnt",
+      "cost_eur": 17.0,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000004",
+      "name": "Apatinis antgalis/Lower cover 115/215 (D)",
+      "unit": "vnt",
+      "cost_eur": 18.38,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000005",
+      "name": "Kibirkšciu gaudytuvas/Spark catcher d 115",
+      "unit": "vnt",
+      "cost_eur": 19.835,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000006",
+      "name": "NP Stogo sandarinimo detalė * 215 mm",
+      "unit": "vnt",
+      "cost_eur": 69.68,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000007",
+      "name": "NP Apdailinė plokštė * 215 mm",
+      "unit": "vnt",
+      "cost_eur": 17.96,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000008",
+      "name": "sandarinimo žiedas kamino viršuje lietaus nubėgimui",
+      "unit": "vnt",
+      "cost_eur": 0.0,
+      "category": "kaminas"
+    },
+    {
+      "code": "KA000009",
+      "name": "Pirties vandens bakas/Sauna water tank",
+      "unit": "vnt",
+      "cost_eur": 74.58,
+      "category": "kaminas"
+    },
+    {
+      "code": "KRE000001",
+      "name": "China 3 kW",
+      "unit": "vnt",
+      "cost_eur": 76.24,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000002",
+      "name": "Pahlen 3 kW",
+      "unit": "vnt",
+      "cost_eur": 193.2231404958678,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000003",
+      "name": "Pahlen 6 kW",
+      "unit": "vnt",
+      "cost_eur": 197.8512396694215,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000004",
+      "name": "Pahlen 9 kW",
+      "unit": "vnt",
+      "cost_eur": 204.21487603305786,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000005",
+      "name": "Pahlen 12 kW",
+      "unit": "vnt",
+      "cost_eur": 212.31404958677686,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000006",
+      "name": "Pahlen 15 kW",
+      "unit": "vnt",
+      "cost_eur": 216.94214876033058,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000007",
+      "name": "Pahlen 18 kW",
+      "unit": "vnt",
+      "cost_eur": 221.57024793388433,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000008",
+      "name": "Evo 2  titaninis 3 kW",
+      "unit": "vnt",
+      "cost_eur": 371.40495867768595,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000009",
+      "name": "Evo 2 titaninis 6 kW",
+      "unit": "vnt",
+      "cost_eur": 378.34710743801656,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000010",
+      "name": "Evo 2 titaninis 9 kW",
+      "unit": "vnt",
+      "cost_eur": 390.4958677685951,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000011",
+      "name": "Evo 2 titaninis 12 kW",
+      "unit": "vnt",
+      "cost_eur": 405.53719008264466,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000012",
+      "name": "Evo 2 titaninis 15 kW",
+      "unit": "vnt",
+      "cost_eur": 414.2148760330579,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000013",
+      "name": "Evo 2 titaninis 18 kW",
+      "unit": "vnt",
+      "cost_eur": 422.3140495867769,
+      "category": "Elektriniai šildytuvai kubilams"
+    },
+    {
+      "code": "KRE000014",
+      "name": "Harvia vega compact 3,5 kW 1,3–2,5 m3 turiui",
+      "unit": "vnt",
+      "cost_eur": 181.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000015",
+      "name": "Harvia vega 6kW  5- 8 m3 turiui",
+      "unit": "vnt",
+      "cost_eur": 221.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000016",
+      "name": "Harvia Cilindro PC70 7 kW 6–10 m3 turiui",
+      "unit": "vnt",
+      "cost_eur": 292.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000017",
+      "name": "Harvia Cilindro PC70 7 kW 6–10 m3 turiui WIFI",
+      "unit": "vnt",
+      "cost_eur": 596.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000018",
+      "name": "Harvia Cilindro PC90 9 kW 8- 14 m3 turiui",
+      "unit": "vnt",
+      "cost_eur": 299.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000019",
+      "name": "Harvia Cilindro PC90 9 kW 8- 14 m3 turiui WIFI",
+      "unit": "vnt",
+      "cost_eur": 653.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000020",
+      "name": "Spirit SP60E 6,0 kW black 5-8 m3 turiui",
+      "unit": "vnt",
+      "cost_eur": 379.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000021",
+      "name": "Spirit SP60XW 6,0 kW black 5-8 m3 turiui WiFi",
+      "unit": "vnt",
+      "cost_eur": 550.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000022",
+      "name": "Spirit SP90E 9,0 kW black 8-14 m3 turiui",
+      "unit": "vnt",
+      "cost_eur": 439.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRE000023",
+      "name": "Spirit SP90XW 9.0 kW  black  8-14 m3 WiFi",
+      "unit": "vnt",
+      "cost_eur": 610.0,
+      "category": "elektrinės krosnys"
+    },
+    {
+      "code": "KRMP000001",
+      "name": "Durelės su stiklu išorinėms krosnims",
+      "unit": "vnt",
+      "cost_eur": 21.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000002",
+      "name": "Papildomas kamino 1 m",
+      "unit": "vnt",
+      "cost_eur": 12.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000003",
+      "name": "Papildoma kamino apsauga 1m",
+      "unit": "vnt",
+      "cost_eur": 20.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000004",
+      "name": "Vandens išleidimo anga 50-90 cm 1\"",
+      "unit": "vnt",
+      "cost_eur": 24.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000005",
+      "name": "Vandens išleidimas 1/2\" plastikinis",
+      "unit": "vnt",
+      "cost_eur": 6.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000006",
+      "name": "Filtracijos flanšas i vonia",
+      "unit": "vnt",
+      "cost_eur": 3.95,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000007",
+      "name": "Filtracijos flanšas i dailylente",
+      "unit": "vnt",
+      "cost_eur": 5.5,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000008",
+      "name": "Malkine metalinė korys",
+      "unit": "vnt",
+      "cost_eur": 100.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000009",
+      "name": "",
+      "unit": "vnt",
+      "cost_eur": 20.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000010",
+      "name": "Šiupeliukas su kačerga",
+      "unit": "vnt",
+      "cost_eur": 12.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000011",
+      "name": "2 Alkunės 90 kamp. 2 vnt su 4 sąvaržom",
+      "unit": "vnt",
+      "cost_eur": 20.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000012",
+      "name": "Juostos iki 7 m Kubilams iki 2250 išorės",
+      "unit": "vnt",
+      "cost_eur": 23.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000013",
+      "name": "Juostos nuo 7m papildomas 1 m",
+      "unit": "vnt",
+      "cost_eur": 2.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000014",
+      "name": "Juosta apvali pirtis",
+      "unit": "vnt",
+      "cost_eur": 25.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000015",
+      "name": "Rutulinis vožtuvas nerudijančio plieno 304",
+      "unit": "vnt",
+      "cost_eur": 5.2,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000016",
+      "name": "5 nerudijančio plieno kojelės kryžiui",
+      "unit": "vnt",
+      "cost_eur": 50.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000017",
+      "name": "Nerudijančio plieno kryžius 304",
+      "unit": "vnt",
+      "cost_eur": 160.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000018",
+      "name": "Akmenys 20 kg /vnt (Sauna stones 20 kg, Ø under 10 cm)",
+      "unit": "vnt",
+      "cost_eur": 6.4,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000019",
+      "name": "Akmenys apvalus 15 kg (Sauna stones rounded 15 kg, Ø under 10 cm)",
+      "unit": "vnt",
+      "cost_eur": 24.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000020",
+      "name": "WPC revizinės durys metalinės",
+      "unit": "vnt",
+      "cost_eur": 18.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000021",
+      "name": "Vandens išleidimo anga 50-90 cm 1\"",
+      "unit": "vnt",
+      "cost_eur": 16.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000022",
+      "name": "Savarža 16-25",
+      "unit": "vnt",
+      "cost_eur": 0.36,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000023",
+      "name": "Žarna skaidri ID 19 OD26 mm x50",
+      "unit": "vnt",
+      "cost_eur": 3.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000024",
+      "name": "Plastikinis siono dangtelis PP kubilu skylės uždengimas",
+      "unit": "vnt",
+      "cost_eur": 1.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000025",
+      "name": "Kubilu paletė",
+      "unit": "Vnt",
+      "cost_eur": 10.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000026",
+      "name": "perėjimas 1\"/32 mm nipelis",
+      "unit": "vnt",
+      "cost_eur": 1.6,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000027",
+      "name": "8+1 per viduri nerudijančio plieno kojelės kryžiui",
+      "unit": "vnt",
+      "cost_eur": 90.0,
+      "category": "Priedai"
+    },
+    {
+      "code": "KRMP000028",
+      "name": "sąvarža W2 56-59",
+      "unit": "vnt",
+      "cost_eur": 1.5,
+      "category": "Priedai"
+    },
+    {
+      "code": "SPA00000001",
+      "name": "Cirkuliacinis Vandens siurblys      200 W",
+      "unit": "Vnt",
+      "cost_eur": 71.75,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000002",
+      "name": "HYDRO Vandens siurblys DXD-315E 1,5HP (1.1 kW)  180080  32 mm",
+      "unit": "Vnt",
+      "cost_eur": 57.2,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000003",
+      "name": "HYDRO  Vandens siurblys DXD-320E 2HP (1.5 kW) 180180",
+      "unit": "Vnt",
+      "cost_eur": 88.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000004",
+      "name": "HYDRO  Vandens siurbys   3HP       2200W                            180147",
+      "unit": "Vnt",
+      "cost_eur": 155.45,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000005",
+      "name": "Oro siurblys DXD-6P 0.75kW  180144",
+      "unit": "Vnt",
+      "cost_eur": 37.4,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000006",
+      "name": "Filtracija intex 2m3/h",
+      "unit": "Vnt",
+      "cost_eur": 103.3,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000007",
+      "name": "UV filtras",
+      "unit": "Vnt",
+      "cost_eur": 100.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000008",
+      "name": "PVC žarna 2\"                    60 mm                  180091",
+      "unit": "m",
+      "cost_eur": 4.420247933884298,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000009",
+      "name": "PVC žarna 1 1/2'' (41.3/48.5 mm)       50 mm                   180079",
+      "unit": "m",
+      "cost_eur": 2.85,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000010",
+      "name": "PVC žarna 1'' (28/33.6 mm)          32 mm                           180076",
+      "unit": "m",
+      "cost_eur": 1.5,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000011",
+      "name": "PVC žarna 3/4\"                            180077",
+      "unit": "m",
+      "cost_eur": 1.7665289256198347,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000012",
+      "name": "PVC žarna 1/2'' (16.9/21.7 mm)   20 mm          180078",
+      "unit": "m",
+      "cost_eur": 0.51,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000013",
+      "name": "PVC skaidri žarna  3 x 6 mm             180136",
+      "unit": "m",
+      "cost_eur": 0.18057851239669423,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000014",
+      "name": "PVC žarna 9 x 14 mm",
+      "unit": "m",
+      "cost_eur": 0.7,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000015",
+      "name": "PVC Žarna filtracijos angoms  32 mm",
+      "unit": "m",
+      "cost_eur": 1.68,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000016",
+      "name": "PVC žarna vandens išleidimui  20 mm",
+      "unit": "m",
+      "cost_eur": 1.01,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000017",
+      "name": "HYDRO standartinis Purkštukas H02-C68S su nerudijancio plieno",
+      "unit": "Vnt",
+      "cost_eur": 2.48,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000018",
+      "name": "Hydro individualiam Masažinis vandens purkštukas M11 - C50 individualiam",
+      "unit": "Vnt",
+      "cost_eur": 2.32,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000019",
+      "name": "Hydro su LED  Purkštukas HL2-F80 su LED",
+      "unit": "Vnt",
+      "cost_eur": 6.51,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000020",
+      "name": "Oro purkštukas A20-S34",
+      "unit": "Vnt",
+      "cost_eur": 0.82,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000021",
+      "name": "Oro purkštukas su LED",
+      "unit": "Vnt",
+      "cost_eur": 6.75,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000022",
+      "name": "Pasiurbimo tinklelis Ileidimo antgalis 1-1/2'', SP22-19",
+      "unit": "Vnt",
+      "cost_eur": 3.2,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000023",
+      "name": "Pasiurbimo tinklelis Vandens įsiurbimo antgalis 2\" SP-S124",
+      "unit": "Vnt",
+      "cost_eur": 12.37,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000024",
+      "name": "Oro siurbimo reguliatorius PR-A01, plastikinis        180095",
+      "unit": "Vnt",
+      "cost_eur": 1.45,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000025",
+      "name": "Pneumatinis jungiklis PR-B01 (išorinis) (180096)",
+      "unit": "Vnt",
+      "cost_eur": 1.38,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000026",
+      "name": "Alkūnė 90x1\"  25 mm                                                  180109 hydro",
+      "unit": "Vnt",
+      "cost_eur": 0.25,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000027",
+      "name": "Alkūnė 90x1/2\"      13mm                                            180133 reguliatoriui",
+      "unit": "Vnt",
+      "cost_eur": 0.706611570247934,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000028",
+      "name": "Alkūnė 90x1 1/2\"          38mm                                       180123",
+      "unit": "Vnt",
+      "cost_eur": 1.3268595041322313,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000029",
+      "name": "Alkūnė 90x2\"              51 mm                                       180143",
+      "unit": "Vnt",
+      "cost_eur": 0.8,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000030",
+      "name": "Trišakis 32x32x32 1\"",
+      "unit": "Vnt",
+      "cost_eur": 0.47,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000031",
+      "name": "Trišakis 32x48x32",
+      "unit": "Vnt",
+      "cost_eur": 1.54,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000032",
+      "name": "Trišakis 60x60x60",
+      "unit": "Vnt",
+      "cost_eur": 3.05,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000033",
+      "name": "Y jungtis 20x20x20",
+      "unit": "Vnt",
+      "cost_eur": 1.19,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000034",
+      "name": "Perėjimas 48x60 1,5\"x2\"",
+      "unit": "Vnt",
+      "cost_eur": 0.9,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000035",
+      "name": "Perėjimas 32x20 1\"x3/8\"",
+      "unit": "Vnt",
+      "cost_eur": 0.89,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000036",
+      "name": "Kolektorius oro sistemai 2x20/4x15 mm",
+      "unit": "Vnt",
+      "cost_eur": 0.9,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000037",
+      "name": "Kolektorius Hydro sistemai 2x32/3x20 mm",
+      "unit": "Vnt",
+      "cost_eur": 1.18,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000038",
+      "name": "Akle 20 mm",
+      "unit": "Vnt",
+      "cost_eur": 0.15,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000039",
+      "name": "Akle 30 mm",
+      "unit": "Vnt",
+      "cost_eur": 0.22,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000040",
+      "name": "Drenažo vožtuvas 32 mm                                        180153",
+      "unit": "Vnt",
+      "cost_eur": 1.7,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000041",
+      "name": "Atbulinis vožtuvas 32mm (180152)",
+      "unit": "Vnt",
+      "cost_eur": 1.6,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000042",
+      "name": "Mova 3/4\"                                 19 mm                          180119",
+      "unit": "Vnt",
+      "cost_eur": 0.5103305785123967,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000043",
+      "name": "Mova 1,5\"                                 38 mm                             180117",
+      "unit": "Vnt",
+      "cost_eur": 1.240495867768595,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000044",
+      "name": "Mova 1\"                            25 mm                                       180118",
+      "unit": "Vnt",
+      "cost_eur": 0.6359504132231406,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000045",
+      "name": "Mova 1/2\"                        13 mm                                     180120",
+      "unit": "Vnt",
+      "cost_eur": 0.5103305785123967,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000046",
+      "name": "LED blokas valdiklis Adapteris LED lemputei JUODAS    1A                    180189",
+      "unit": "Vnt",
+      "cost_eur": 10.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000047",
+      "name": "Lemputė 50 mm                                                      180141",
+      "unit": "Vnt",
+      "cost_eur": 5.5,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000048",
+      "name": "Mažoji led lemputė 20 mm                                     180204",
+      "unit": "Vnt",
+      "cost_eur": 3.53,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000049",
+      "name": "LED lempučių juosta  6m. su valdikliu transformatorium      180228",
+      "unit": "Vnt",
+      "cost_eur": 55.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000050",
+      "name": "Led prailginimas",
+      "unit": "Vnt",
+      "cost_eur": 1.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000051",
+      "name": "turėklas rankturis",
+      "unit": "Vnt",
+      "cost_eur": 90.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000052",
+      "name": "Plastikinis baras",
+      "unit": "Vnt",
+      "cost_eur": 55.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000053",
+      "name": "Galvos atlošas",
+      "unit": "Vnt",
+      "cost_eur": 4.4,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000054",
+      "name": "LCD termometras TOUCH",
+      "unit": "Vnt",
+      "cost_eur": 11.5,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000055",
+      "name": "Apsauginė juosta",
+      "unit": "m",
+      "cost_eur": 1.06,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000056",
+      "name": "LED, hyro, air, flow skardelė kvadratinė",
+      "unit": "Vnt",
+      "cost_eur": 1.6,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000057",
+      "name": "Smėlis filtracijom 25 kg",
+      "unit": "Vnt",
+      "cost_eur": 10.12,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000058",
+      "name": "Kasetinis filtras",
+      "unit": "Vnt",
+      "cost_eur": 25.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000059",
+      "name": "Metalinis bariukas",
+      "unit": "Vnt",
+      "cost_eur": 15.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000060",
+      "name": "Termometras pluduriuojantis paprastas",
+      "unit": "Vnt",
+      "cost_eur": 4.0,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000061",
+      "name": "Apsaugine juosta kubilo dangciui gumuota",
+      "unit": "m",
+      "cost_eur": 1.12,
+      "category": "SPA"
+    },
+    {
+      "code": "SPA00000062",
+      "name": "Garso kaloneles BT 2 vnt islendancios",
+      "unit": "Vnt",
+      "cost_eur": 110.0,
+      "category": "SPA"
+    },
+    {
+      "code": "MED000001",
+      "name": "Eglės W18xL90 mm m2-9,60 (1,8 m kubilui reikia 58 vnt x 1m )(2 m kubilui reikia 60 vnt x 1m )",
+      "unit": "m2",
+      "cost_eur": 9.2,
+      "category": "Dailylentės"
+    },
+    {
+      "code": "MED000002",
+      "name": "maumedžio W18xL90 mm m2 - 24 eur",
+      "unit": "m2",
+      "cost_eur": 21.0,
+      "category": "Dailylentės"
+    },
+    {
+      "code": "MED000003",
+      "name": "Termo W18xL90 mm m2 -15 eur",
+      "unit": "m2",
+      "cost_eur": 16.5,
+      "category": "Dailylentės"
+    },
+    {
+      "code": "MED000004",
+      "name": "WPC  2,9 m 7,45 eur (m2-25 eur)",
+      "unit": "m2",
+      "cost_eur": 22.3,
+      "category": "Dailylentės"
+    },
+    {
+      "code": "MED000005",
+      "name": "Vidaus dailylentė, STV, juodalksnis, A rūšis, 11x89x1800mm",
+      "unit": "m2",
+      "cost_eur": 15.0,
+      "category": "Dailylentės"
+    },
+    {
+      "code": "MED000006",
+      "name": "Kalibruota mediena 45/95/5100 eglė, gradavimas C24  vnt 7,8 eur/vnt",
+      "unit": "m",
+      "cost_eur": 1.44,
+      "category": "statybinė mediena"
+    },
+    {
+      "code": "MED000007",
+      "name": "Statybinė pjautinė mediena 30/125/4800, džiovinta, pušis I-V 4,95 eur/vnt",
+      "unit": "m",
+      "cost_eur": 1.03,
+      "category": "statybinė mediena"
+    },
+    {
+      "code": "MED000008",
+      "name": "Statybinė kalibruota mediena 45/195/5400, eglė, B rūšis eur/vnt",
+      "unit": "m",
+      "cost_eur": 2.6,
+      "category": "statybinė mediena"
+    },
+    {
+      "code": "MED000009",
+      "name": "Šulas Eglė 42x90 mm (50x100) kubas = 200 m  Kubo kaina 280",
+      "unit": "m",
+      "cost_eur": 1.85,
+      "category": "Šulai"
+    },
+    {
+      "code": "MED000010",
+      "name": "Šulas Termo 42x90 mm (50x100) kubas = 200 m Kubo kaina 440",
+      "unit": "m",
+      "cost_eur": 2.85,
+      "category": "Šulai"
+    },
+    {
+      "code": "MED000011",
+      "name": "Termo dailynente 110 x 2 mm apdailom",
+      "unit": "m",
+      "cost_eur": 2.2,
+      "category": "Šulai"
+    },
+    {
+      "code": "MED000012",
+      "name": "Eglės lentos 120x30 mm apdailom 14 eur/m2",
+      "unit": "m",
+      "cost_eur": 1.75,
+      "category": "Šulai"
+    },
+    {
+      "code": "MED000013",
+      "name": "Bruselis 45x40 iš kalibruotos med 45/95/5100",
+      "unit": "m",
+      "cost_eur": 0.72,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000014",
+      "name": "Terasinė termo mediena 25/110/",
+      "unit": "m",
+      "cost_eur": 1.37,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000015",
+      "name": "Juodalsknio gultas 28/90/",
+      "unit": "m",
+      "cost_eur": 1.68,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000016",
+      "name": "Juodalsnio atlošas daromos iš gulto lentos",
+      "unit": "m",
+      "cost_eur": 1.68,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000017",
+      "name": "Termo mediena 45/95/5400 mm",
+      "unit": "m",
+      "cost_eur": 2.8,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000018",
+      "name": "OSB plokste",
+      "unit": "m2",
+      "cost_eur": 3.264,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000019",
+      "name": "Mediena grindu eglės 120x28",
+      "unit": "m",
+      "cost_eur": 2.2,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000020",
+      "name": "2 in 1 pirties fasadine siena CNC",
+      "unit": "vnt",
+      "cost_eur": 440.0,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000021",
+      "name": "2 in 1 Apdailos CNC frezuota aplink rema",
+      "unit": "vnt",
+      "cost_eur": 120.0,
+      "category": "suolai"
+    },
+    {
+      "code": "MED000022",
+      "name": "2 in 1 Apdailos CNC frezuota aplink langa",
+      "unit": "vnt",
+      "cost_eur": 110.0,
+      "category": "suolai"
+    },
+    {
+      "code": "MV000001",
+      "name": "Ilgasriegis strypas 10x1000 mm",
+      "unit": "vnt",
+      "cost_eur": 6.0,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000002",
+      "name": "Vynys 3,0x32 15 Laipsniu FZV-1200",
+      "unit": "vnt",
+      "cost_eur": 0.016,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000003",
+      "name": "Medvaržtis 4x20",
+      "unit": "vnt",
+      "cost_eur": 0.009,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000004",
+      "name": "Medvaržtis 5x80",
+      "unit": "vnt",
+      "cost_eur": 0.0225,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000005",
+      "name": "Medvaržtis 4x70",
+      "unit": "vnt",
+      "cost_eur": 0.015,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000006",
+      "name": "Medvaržtis 4x50",
+      "unit": "vnt",
+      "cost_eur": 0.0115,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000007",
+      "name": "Medvaržtis 4x45",
+      "unit": "vnt",
+      "cost_eur": 0.0096,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000008",
+      "name": "Medvaržtis 4x40",
+      "unit": "vnt",
+      "cost_eur": 0.009,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000009",
+      "name": "Medvaržtis 3,5x35",
+      "unit": "vnt",
+      "cost_eur": 0.0046,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000010",
+      "name": "Medvaržtis 6x100",
+      "unit": "vnt",
+      "cost_eur": 0.05,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000011",
+      "name": "Medvaržtis 6x120",
+      "unit": "vnt",
+      "cost_eur": 0.05,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000012",
+      "name": "Medvaržtis A2 4x50",
+      "unit": "vnt",
+      "cost_eur": 0.035,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000013",
+      "name": "Medvaržtis A2 4x70",
+      "unit": "vnt",
+      "cost_eur": 0.04,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000014",
+      "name": "Medvaržtis A2 4x45",
+      "unit": "vnt",
+      "cost_eur": 0.035,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000015",
+      "name": "Medvaržtis A2 3,5x35",
+      "unit": "vnt",
+      "cost_eur": 0.027,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000016",
+      "name": "Medvaržtis A2 5x50",
+      "unit": "vnt",
+      "cost_eur": 0.05,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000017",
+      "name": "Medvaržtis A2 3x16",
+      "unit": "vnt",
+      "cost_eur": 0.01,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000018",
+      "name": "Medvaržtis A2 5x35",
+      "unit": "vnt",
+      "cost_eur": 0.05,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000019",
+      "name": "Medvaržtis A2 5x25",
+      "unit": "vnt",
+      "cost_eur": 0.025,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000020",
+      "name": "Veržlė M10",
+      "unit": "vnt",
+      "cost_eur": 0.01,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000021",
+      "name": "poveržlė m10",
+      "unit": "vnt",
+      "cost_eur": 0.1,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "MV000022",
+      "name": "veržlės uždengimas m10",
+      "unit": "vnt",
+      "cost_eur": 0.1,
+      "category": "varžtai/vinys"
+    },
+    {
+      "code": "SB000001",
+      "name": "Bituminės čerpės (sonata kadril plius juoda 3m2) 15,07",
+      "unit": "m2",
+      "cost_eur": 5.2,
+      "category": "stogas"
+    },
+    {
+      "code": "SB000002",
+      "name": "Bitumas apatinis",
+      "unit": "m2",
+      "cost_eur": 1.1,
+      "category": "stogas"
+    },
+    {
+      "code": "ST000001",
+      "name": "Mediniu duru rifliuotas stiklas",
+      "unit": "vnt",
+      "cost_eur": 7.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000002",
+      "name": "Kvadratiniu langelių stiklas",
+      "unit": "vnt",
+      "cost_eur": 7.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000003",
+      "name": "Apvali stiklas 50 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 135.42,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000004",
+      "name": "Apvali stiklas 100 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 254.38,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000005",
+      "name": "Igloo stiklas 50 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 135.51,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000006",
+      "name": "Igloo stiklas 80 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 206.94,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000007",
+      "name": "Igloo stiklas 100 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 254.56,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000008",
+      "name": "Kvadratinė stiklas 50 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 135.42,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000009",
+      "name": "Kvadratinė stiklas 100 % grudintas + tonuotas 8 mm + plėvelė+ poliravimas trapec + pjovimas",
+      "unit": "vnt",
+      "cost_eur": 254.38,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000010",
+      "name": "Moderni stiklas tonuotas 2 m  1000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 90.65,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000011",
+      "name": "Moderni stiklas tonuotas 2,5 m 1500x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 132.39,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000012",
+      "name": "Moderni stiklas tonuotas 3 m  2000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 174.14,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000013",
+      "name": "Moderni stiklas tonuotas 3,5 m 2500x1800mm",
+      "unit": "vnt",
+      "cost_eur": 200.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000014",
+      "name": "Moderni stiklas tonuotas 4 m 3000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 257.62,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000015",
+      "name": "Moderni stiklas tonuotas 4,5 m 3500x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 299.37,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000016",
+      "name": "Moderni stiklas tonuotas 5 m 4000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 341.11,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000017",
+      "name": "Moderni stiklas tonuotas 5,5m 4500x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 382.85,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000018",
+      "name": "Moderni stiklas tonuotas 6 m 5000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 400.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000019",
+      "name": "Stiklinės durys tonuotos pirties",
+      "unit": "vnt",
+      "cost_eur": 80.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000020",
+      "name": "Apvalios priekinis stiklas 100 % 1 vnt 1900 mm × 622 mm × 6 mm",
+      "unit": "vnt",
+      "cost_eur": 54.26,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000021",
+      "name": "Mediniu duru didelis stiklas  1540 mm × 440 mm × 6 mm",
+      "unit": "vnt",
+      "cost_eur": 28.46,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000022",
+      "name": "Moderni stiklas Veidrodinis 2 m  1000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 97.78,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000023",
+      "name": "Moderni stiklas Veidrodinis 2,5 m 1500x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 143.91,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000024",
+      "name": "Moderni stiklas Veidrodinis 3 m  2000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 190.04,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000025",
+      "name": "Moderni stiklas Veidrodinis 3,5 m 2500x1800mm",
+      "unit": "vnt",
+      "cost_eur": 240.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000026",
+      "name": "Moderni stiklas Veidrodinis 4 m 3000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 282.31,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000027",
+      "name": "Moderni stiklas Veidrodinis 4,5 m 3500x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 328.45,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000028",
+      "name": "Moderni stiklas Veidrodinis 5 m 4000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 374.58,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000029",
+      "name": "Moderni stiklas Veidrodinis 5,5m 4500x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 420.71,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000030",
+      "name": "Moderni stiklas Veidrodinis 6 m 5000x1800 mm",
+      "unit": "vnt",
+      "cost_eur": 480.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000031",
+      "name": "2 in 1 stiklas 8 mm tonuotas grudintas",
+      "unit": "vnt",
+      "cost_eur": 225.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "ST000032",
+      "name": "2 in 1 stiklas 8 mm veidrodinis grudintas",
+      "unit": "vnt",
+      "cost_eur": 300.0,
+      "category": "stiklai"
+    },
+    {
+      "code": "DA000001",
+      "name": "Tikurrila valti impregnantas 12 m²/l  talpa 9 l",
+      "unit": "L",
+      "cost_eur": 67.29,
+      "category": "Dažai"
+    },
+    {
+      "code": "DA000002",
+      "name": "Tikurirra valti dažai  12 m²/l  talpa 3 l",
+      "unit": "L",
+      "cost_eur": 18.18,
+      "category": "Dažai"
+    },
+    {
+      "code": "DA000003",
+      "name": "Dažymas milteliniu budu",
+      "unit": "m2",
+      "cost_eur": 8.0,
+      "category": "Dažai"
+    },
+    {
+      "code": "MOM000001",
+      "name": "Puta makroflex",
+      "unit": "vnt",
+      "cost_eur": 4.84,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000002",
+      "name": "silikonas",
+      "unit": "vnt",
+      "cost_eur": 3.57,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000003",
+      "name": "Klijai PVC griofon 0,5 l",
+      "unit": "vnt",
+      "cost_eur": 12.6,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000004",
+      "name": "Klijai medienai Kleiberit",
+      "unit": "L",
+      "cost_eur": 70.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000005",
+      "name": "Spyna durims",
+      "unit": "vnt",
+      "cost_eur": 14.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000006",
+      "name": "Širdelė spynai + 5 raktai",
+      "unit": "vnt",
+      "cost_eur": 7.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000007",
+      "name": "Lankstai durims 1 vnt",
+      "unit": "vnt",
+      "cost_eur": 2.3,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000008",
+      "name": "Pluoštinio cemento plokštė sauna 9x1200x630 mm pilka",
+      "unit": "vnt",
+      "cost_eur": 14.041,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000009",
+      "name": "Karščiui atspari kalcio silikato plokštė 3cm SKAMOL 30x1000x1000",
+      "unit": "vnt",
+      "cost_eur": 24.79,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000010",
+      "name": "SL krosneliu skarda",
+      "unit": "vnt",
+      "cost_eur": 30.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000011",
+      "name": "Dirželiai 3,5x290 juodi 839.53300 SCAME",
+      "unit": "vnt",
+      "cost_eur": 0.018,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000012",
+      "name": "tarpinė panoraminiam stiklui",
+      "unit": "vnt",
+      "cost_eur": 2.2,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000013",
+      "name": "Lankstai langeliams",
+      "unit": "vnt",
+      "cost_eur": 2.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000014",
+      "name": "Kaištis langui fiksatorius",
+      "unit": "vnt",
+      "cost_eur": 1.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000015",
+      "name": "Techninė pak. plėvelė 23my x50cm x 150 m, balta",
+      "unit": "vnt",
+      "cost_eur": 3.5,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000016",
+      "name": "Lipni juosta 48mm x 132 m,skaidri, (Vibac)",
+      "unit": "vnt",
+      "cost_eur": 1.8,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000017",
+      "name": "Gofruoto kartono rulonas 100m x 100m, 2 sl., (180gr/kv.m) 30 EUR ( gaunasi 4 vnt po 25 m 30/100/4=1 m kaina )",
+      "unit": "m",
+      "cost_eur": 0.075,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000018",
+      "name": "Wildtubs skardelė",
+      "unit": "vnt",
+      "cost_eur": 1.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000019",
+      "name": "Puta 10 cm sienos",
+      "unit": "m2",
+      "cost_eur": 17.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000020",
+      "name": "Putų polistireno plokštė EPS 70, TEGO 50x500x1200mm",
+      "unit": "m2",
+      "cost_eur": 2.06,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000021",
+      "name": "Mineraline vata",
+      "unit": "m2",
+      "cost_eur": 2.26,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000022",
+      "name": "Metalines kojeles apvaliems kubilams 5 vnt",
+      "unit": "VNT",
+      "cost_eur": 60.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000023",
+      "name": "Metalinis kryzius Apvaliems kubilams",
+      "unit": "VNT",
+      "cost_eur": 160.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000024",
+      "name": "Metalinis kryzius ofurui kubilams",
+      "unit": "VNT",
+      "cost_eur": 160.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000025",
+      "name": "Magnetas durelėms revizinems",
+      "unit": "VNT",
+      "cost_eur": 1.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000026",
+      "name": "rankenėle durelems revizinėms",
+      "unit": "VNT",
+      "cost_eur": 1.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000027",
+      "name": "Metaliniai kampai kvardartiniams kubilams",
+      "unit": "vnt",
+      "cost_eur": 15.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000028",
+      "name": "Metalinis kampas 65x55x55 karkasams",
+      "unit": "vnt",
+      "cost_eur": 0.85,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000029",
+      "name": "Bantaizas ruolonas  PP juosta (pilka) 16mmx0,6mm. x1800m. 24,32 EUR",
+      "unit": "m",
+      "cost_eur": 0.014,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000030",
+      "name": "Dygis",
+      "unit": "vnt",
+      "cost_eur": 0.021,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000031",
+      "name": "Metalinis kampas 30x30x2,5 laiptukams",
+      "unit": "vnt",
+      "cost_eur": 0.3,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000032",
+      "name": "Juostinė sąvarža 36-39",
+      "unit": "vnt",
+      "cost_eur": 1.0,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000033",
+      "name": "Vėjo izoliacinė plėvelė Corovin 80, Corotop 1.5x50m",
+      "unit": "m2",
+      "cost_eur": 0.34,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000034",
+      "name": "folija sienoms",
+      "unit": "m2",
+      "cost_eur": 0.63,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "MOM000035",
+      "name": "PLĖVELĖ 6M 150MK JUODA",
+      "unit": "m",
+      "cost_eur": 1.43,
+      "category": "montavimo medžiagos"
+    },
+    {
+      "code": "ELM000001",
+      "name": "12,5W/m, 12V,120LED/m, 930 IP Samsung",
+      "unit": "m",
+      "cost_eur": 6.37,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000002",
+      "name": "14.4W 12V LED juosta RGB MPL IP64",
+      "unit": "m",
+      "cost_eur": 5.07,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000003",
+      "name": "Sieninis lauko šviestuvas Parete juodas",
+      "unit": "vnt",
+      "cost_eur": 9.1,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000004",
+      "name": "Harvia šviestuvas",
+      "unit": "vnt",
+      "cost_eur": 13.0,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000005",
+      "name": "6W GU10 LED lemputė 3000K",
+      "unit": "vnt",
+      "cost_eur": 1.12,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000006",
+      "name": "Lemputė 40W E14 žvakutė harvia lempai",
+      "unit": "vnt",
+      "cost_eur": 0.6,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000007",
+      "name": "75W LED maitinimo šaltinis 12V/6A IP67",
+      "unit": "vnt",
+      "cost_eur": 12.96,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000008",
+      "name": "100 W Profesionalus LED maitinimo šaltinis 24V IP6 7",
+      "unit": "vnt",
+      "cost_eur": 16.76,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000009",
+      "name": "LED mait. šaltinis 150W 230/12VIP67 Al.003178",
+      "unit": "vnt",
+      "cost_eur": 15.0,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000010",
+      "name": "LED profilis LUMINES B sidabrinis 2,02m",
+      "unit": "vnt",
+      "cost_eur": 5.52,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000011",
+      "name": "Dangtelis profiliui cover BASIC PMMA matinis 2,02m",
+      "unit": "vnt",
+      "cost_eur": 1.8,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000012",
+      "name": "Rgb juostos pultelis",
+      "unit": "vnt",
+      "cost_eur": 11.46,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000013",
+      "name": "Rgb juostos valdiklis",
+      "unit": "vnt",
+      "cost_eur": 10.0,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000014",
+      "name": "Jugiklis + 2 klavišai ip 55 (dėžutė 2 vietu 2,65+ jungtukas 2 vnt 2,8)",
+      "unit": "vnt",
+      "cost_eur": 5.45,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000015",
+      "name": "Rozetė Lizdas 1v. su įžeminimu IP55 /10 Aquant",
+      "unit": "vnt",
+      "cost_eur": 3.76,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000017",
+      "name": "PG11 sandariklis kab.IP66-IP68 Scame 5-10mm D19mm",
+      "unit": "vnt",
+      "cost_eur": 0.14,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000018",
+      "name": "PG16 sandariklis kab.IP66-IP68 Scame 10-14mm D23",
+      "unit": "vnt",
+      "cost_eur": 0.18,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000020",
+      "name": "Jungtis Wago 5x0.2-4 mm2 universali 221-415/25",
+      "unit": "vnt",
+      "cost_eur": 0.44,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000021",
+      "name": "Skydelis 2 mod.vt. IP66 Domino 672.2002 pirtys",
+      "unit": "vnt",
+      "cost_eur": 6.8,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000022",
+      "name": "Skydelis EP1x 5 mod.v/t skaidr.IP-55 (N+PE) 460612 5 moduliu kubilai",
+      "unit": "vnt",
+      "cost_eur": 4.9,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000023",
+      "name": "Skydelis 8 mod. vt. IP66 Domino 672.2008 vienfazis kubilai",
+      "unit": "vnt",
+      "cost_eur": 11.96,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000024",
+      "name": "Skydelis 12 mod.vt. IP66 Domino 672.2012 Trifazis kubilai",
+      "unit": "vnt",
+      "cost_eur": 17.0,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000026",
+      "name": "Nuotekio relė 2P 40A, 30mA AC-tipas (standart) vienfazė",
+      "unit": "vnt",
+      "cost_eur": 10.72,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000027",
+      "name": "Nuotekio relė 4P 40A, 30mA AA-tipas SRN trifazė",
+      "unit": "vnt",
+      "cost_eur": 15.0,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000028",
+      "name": "NB1-631 C 10A 6kA automatinis jungiklis CHINT Vienfazis",
+      "unit": "vnt",
+      "cost_eur": 1.78,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000029",
+      "name": "NB1-631 C 16A 6kA automatinis jungiklis M CHINT vienfazis",
+      "unit": "vnt",
+      "cost_eur": 1.81,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000030",
+      "name": "NB1-631 C 32A 6kA automatinis jungiklis M CHINT",
+      "unit": "vnt",
+      "cost_eur": 1.96,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000031",
+      "name": "NB1-633 C 16A 6kA automatinis jungiklis M  Tifazis",
+      "unit": "vnt",
+      "cost_eur": 5.6,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000032",
+      "name": "NB1-633 C 20A 6kA automatinis jungiklis M CHINT",
+      "unit": "vnt",
+      "cost_eur": 6.8,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000033",
+      "name": "NCH8 40-40 kontaktorius mod. 230VAC 4P mod. NO",
+      "unit": "vnt",
+      "cost_eur": 13.7,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000034",
+      "name": "HI 1.5/10 antgalis/100vnt., raudonas HI015",
+      "unit": "vnt",
+      "cost_eur": 0.0078,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000035",
+      "name": "Užkaitinamos jungtys",
+      "unit": "vnt",
+      "cost_eur": 0.01,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000036",
+      "name": "Šina 1 faziam tinklui",
+      "unit": "vnt",
+      "cost_eur": 1.8,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000037",
+      "name": "Šina 3 faziam tinklui",
+      "unit": "vnt",
+      "cost_eur": 2.25,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000038",
+      "name": "MXG-09 pernešamas kištukas, guminis16A 250V",
+      "unit": "vnt",
+      "cost_eur": 0.9,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000039",
+      "name": "Tifazis sieninis kištukas (pirtims)",
+      "unit": "vnt",
+      "cost_eur": 8.5,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000040",
+      "name": "Trifazis pernešamas kištukas IP 65",
+      "unit": "vnt",
+      "cost_eur": 8.5,
+      "category": "elektros medžiagos"
+    },
+    {
+      "code": "ELM000041",
+      "name": "3x 0,75 mm2 Karščiuo atsparus silikoninis",
+      "unit": "m",
+      "cost_eur": 1.32,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000042",
+      "name": "3x1,5 mm2 Karščiuo atsparus silikoninis",
+      "unit": "m",
+      "cost_eur": 1.86,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000043",
+      "name": "3x1,5 mm2 pvc juodas",
+      "unit": "m",
+      "cost_eur": 0.6,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000044",
+      "name": "3x2,5 mm2 pvc kabelis baltas",
+      "unit": "m",
+      "cost_eur": 0.96,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000047",
+      "name": "4x0,75 mm2 karščiui atsparus silikonas",
+      "unit": "m",
+      "cost_eur": 2.24,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000049",
+      "name": "5x2,5 mm2 gumuotas",
+      "unit": "m",
+      "cost_eur": 2.1,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000051",
+      "name": "5x1,5 mm2 Karščiuo atsparus silikoninis",
+      "unit": "m",
+      "cost_eur": 2.77,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000052",
+      "name": "5x2,5 mm2 Karščiuo atsparus silikoninis",
+      "unit": "m",
+      "cost_eur": 4.03,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000053",
+      "name": "Son off valdiklis",
+      "unit": "vnt",
+      "cost_eur": 14.34,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000054",
+      "name": "Son off daviklis",
+      "unit": "vnt",
+      "cost_eur": 4.75,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000055",
+      "name": "Son off dėžutė",
+      "unit": "vnt",
+      "cost_eur": 5.32,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000056",
+      "name": "LED profilis ARC12 Topmet 3m",
+      "unit": "vnt",
+      "cost_eur": 8.94,
+      "category": "kabelis"
+    },
+    {
+      "code": "ELM000057",
+      "name": "Dangtelis LED profiliui C CLICK baltas 3m",
+      "unit": "vnt",
+      "cost_eur": 3.69,
+      "category": "kabelis"
+    },
+    {
+      "code": "PP000001",
+      "name": "termometras/drėgnomatis",
+      "unit": "vnt",
+      "cost_eur": 23.0,
+      "category": "Pirčiu priedai"
+    },
+    {
+      "code": "PP000002",
+      "name": "smėlio laikrodis",
+      "unit": "vnt",
+      "cost_eur": 10.0,
+      "category": "Pirčiu priedai"
+    },
+    {
+      "code": "PP000003",
+      "name": "Vandens kibiras 4 l su samčiu 36 cm (21,5+11,7)",
+      "unit": "vnt",
+      "cost_eur": 32.2,
+      "category": "Pirčiu priedai"
+    },
+    {
+      "code": "PP000004",
+      "name": "Vanta",
+      "unit": "vnt",
+      "cost_eur": 4.95,
+      "category": "Pirčiu priedai"
+    },
+    {
+      "code": "PP000005",
+      "name": "Vandens nubėgimo trapas",
+      "unit": "vnt",
+      "cost_eur": 16.5,
+      "category": "Pirčiu priedai"
+    }
+  ],
+  "defaults": {
+    "labor_rate_eur_per_hour": 8.77
+  }
+}

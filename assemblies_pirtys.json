@@ -1,0 +1,836 @@
+{
+  "assemblies": [
+    {
+      "id": "durys",
+      "section": "Durys",
+      "name": "Durys",
+      "items": [
+        {
+          "code": "MED000006",
+          "qty": 7.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000001",
+          "qty": 0.5,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "durys-pastorinimas-iš-šulo-42x90",
+      "section": "Durys",
+      "name": "Pastorinimas iš šulo 42x90",
+      "items": [
+        {
+          "code": "ST000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000004",
+          "qty": 0.05,
+          "unit": "L"
+        },
+        {
+          "code": "MV000004",
+          "qty": 30.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000015",
+          "qty": 36.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000007",
+          "qty": 2.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "durys-paprastos-durys-termo",
+      "section": "Durys",
+      "name": "paprastos durys termo",
+      "items": [
+        {
+          "code": "MED000010",
+          "qty": 7.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000003",
+          "qty": 0.5,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "durys-varžtai-soninėms-5x80",
+      "section": "Durys",
+      "name": "Varžtai soninėms 5x80",
+      "items": [
+        {
+          "code": "ST000019",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "pečiaus-pagrindas-pečius",
+      "section": "Pečiaus pagrindas+ pečius",
+      "name": "Pečiaus pagrindas+ pečius",
+      "items": [
+        {
+          "code": "MOM000008",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000009",
+          "qty": 1.5,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000013",
+          "qty": 3.2,
+          "unit": "m"
+        },
+        {
+          "code": "MV000006",
+          "qty": 30.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000015",
+          "qty": 40.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000006",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000007",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000008",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00026",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00028",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00029",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00030",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRM00031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000014",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000015",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000016",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000017",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000018",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000019",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000020",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000021",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRE000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000052",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000049",
+          "qty": 1.0,
+          "unit": "m"
+        },
+        {
+          "code": "ELM000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000039",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000040",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000018",
+          "qty": 2.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "papildomas-skydas",
+      "section": "Papildomas skydas",
+      "name": "Papildomas skydas",
+      "items": [
+        {
+          "code": "MED000001",
+          "qty": 8.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000006",
+          "qty": 18.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000006",
+          "qty": 20.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000021",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000033",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000034",
+          "qty": 4.0,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "papildomas-skydas-medines-durys",
+      "section": "Papildomas skydas",
+      "name": "Medines durys",
+      "items": [
+        {
+          "code": "MV000002",
+          "qty": 200.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000004",
+          "qty": 100.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000003",
+          "qty": 8.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000006",
+          "qty": 18.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000006",
+          "qty": 20.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000021",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000033",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000034",
+          "qty": 4.0,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "papildomas-skydas-medines-durys",
+      "section": "Papildomas skydas",
+      "name": "Medines durys",
+      "items": [
+        {
+          "code": "MV000002",
+          "qty": 200.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000004",
+          "qty": 100.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000005",
+          "qty": 8.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MED000006",
+          "qty": 18.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000006",
+          "qty": 20.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000021",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000033",
+          "qty": 4.0,
+          "unit": "m2"
+        },
+        {
+          "code": "MOM000034",
+          "qty": 4.0,
+          "unit": "m2"
+        }
+      ]
+    },
+    {
+      "id": "papildomas-skydas-medines-durys",
+      "section": "Papildomas skydas",
+      "name": "Medines durys",
+      "items": [
+        {
+          "code": "MV000002",
+          "qty": 200.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000004",
+          "qty": 100.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "papildomas-skydas-darbas-igloo-apvali-kvadratine",
+      "section": "Papildomas skydas",
+      "name": "Darbas igloo apvali kvadratine",
+      "items": [
+        {
+          "code": "DU0000002",
+          "qty": 3.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 3.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 2.0,
+          "unit": "val"
+        },
+        {
+          "code": "DU0000002",
+          "qty": 12.0,
+          "unit": "val"
+        }
+      ]
+    },
+    {
+      "id": "langai-2-kvadratiniai-langai-sktiklas",
+      "section": "Langai",
+      "name": "2 kvadratiniai langai sktiklas",
+      "items": [
+        {
+          "code": "MOM000013",
+          "qty": 4.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MV000009",
+          "qty": 8.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000014",
+          "qty": 2.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-1200-x-400-kvadratiniis-langas-i-vyriai-lankstai",
+      "section": "Langai",
+      "name": "1200 x 400 kvadratiniis langas i vyriai+ lankstai",
+      "items": [
+        {
+          "code": "MV000009",
+          "qty": 8.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000014",
+          "qty": 2.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MOM000012",
+          "qty": 7.0,
+          "unit": "m"
+        },
+        {
+          "code": "MOM000002",
+          "qty": 0.5,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-puse-skydo",
+      "section": "Langai",
+      "name": "Minus puse skydo",
+      "items": [
+        {
+          "code": "ST000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-stppak-apvalus-vidusišorė-20002250-mm",
+      "section": "Langai",
+      "name": "ST/PP/AK Apvalus vidus/išorė (2000/2250 mm)",
+      "items": [
+        {
+          "code": "MOM000030",
+          "qty": 48.0,
+          "unit": "Vnt"
+        },
+        {
+          "code": "MOM000004",
+          "qty": 0.2,
+          "unit": "l"
+        },
+        {
+          "code": "MED000017",
+          "qty": 16.799999999999997,
+          "unit": "m"
+        },
+        {
+          "code": "ST000020",
+          "qty": 2.0,
+          "unit": "Vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-visas-skydas",
+      "section": "Langai",
+      "name": "Minus visas skydas",
+      "items": [
+        {
+          "code": "ST000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-kažkiek-skydo",
+      "section": "Langai",
+      "name": "Minus kažkiek skydo",
+      "items": [
+        {
+          "code": "ST000006",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-kažkiek-skydo",
+      "section": "Langai",
+      "name": "Minus kažkiek skydo",
+      "items": [
+        {
+          "code": "ST000007",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-kažkiek-skydo",
+      "section": "Langai",
+      "name": "Minus kažkiek skydo",
+      "items": [
+        {
+          "code": "ST000008",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-kažkiek-skydo",
+      "section": "Langai",
+      "name": "Minus kažkiek skydo",
+      "items": [
+        {
+          "code": "ST000009",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-minus-kažkiek-skydo",
+      "section": "Langai",
+      "name": "Minus kažkiek skydo",
+      "items": [
+        {
+          "code": "ST000010",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000011",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000012",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000013",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000014",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000015",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000016",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000017",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000023",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000024",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000025",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000026",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000027",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000028",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ST000029",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-2-in-1-tonuotas-8-mm-panoraminis-pirties-langas",
+      "section": "Langai",
+      "name": "2 in 1  tonuotas 8 mm panoraminis pirties langas",
+      "items": [
+        {
+          "code": "ST000031",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "langai-2-in-1-veidrodinis-8-mm-panoraminis-pirties-langas",
+      "section": "Langai",
+      "name": "2 in 1 veidrodinis  8 mm panoraminis pirties langas",
+      "items": [
+        {
+          "code": "ST000032",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "MED000022",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "priedai",
+      "section": "Priedai",
+      "name": "Priedai",
+      "items": [
+        {
+          "code": "PP000003",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "PP000001",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "PP000002",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KA000009",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "PP000004",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "priedai-rozetė",
+      "section": "Priedai",
+      "name": "rozetė",
+      "items": [
+        {
+          "code": "ELM000015",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000026",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "ELM000043",
+          "qty": 2.0,
+          "unit": "m"
+        },
+        {
+          "code": "MED000013",
+          "qty": 1.0,
+          "unit": "m"
+        }
+      ]
+    },
+    {
+      "id": "priedai-mediena-šulas",
+      "section": "Priedai",
+      "name": "mediena šulas",
+      "items": [
+        {
+          "code": "MV000006",
+          "qty": 30.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "KRMP000012",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    },
+    {
+      "id": "priedai-kojos",
+      "section": "Priedai",
+      "name": "kojos",
+      "items": [
+        {
+          "code": "MOM000018",
+          "qty": 1.0,
+          "unit": "vnt"
+        },
+        {
+          "code": "PP000005",
+          "qty": 1.0,
+          "unit": "vnt"
+        }
+      ]
+    }
+  ]
+}
